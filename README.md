@@ -18,7 +18,7 @@ Log ubuntu system performance to a text file using Python
 * ---------------------------------------------#
 
 Copy the code and save as sys_mon_log.py or download
-open a terminal in same location
+open a terminal in same location:
    python sys_mon_log.py
 
 Find the log in generated sysmon_record.txt in same folder
